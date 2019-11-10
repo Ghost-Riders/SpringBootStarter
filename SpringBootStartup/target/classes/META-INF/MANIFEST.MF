@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: root
+Implementation-Vendor-Id: com.springbootstartupproject.course
+Build-Jdk: 1.8.0_222
+Implementation-URL: http://projects.spring.io/spring-boot/SpringBootSt
+ artup/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
